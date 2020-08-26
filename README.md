@@ -4,8 +4,10 @@
 
 <p align="center">
 <a href="https://dev.to/lynseahoss"><img height="30" src="assets/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/lynseahoss/"><img height="30" src="assets/icon/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/lynseanne/"><img height="30" src="assets/icon/instagram.png"></a>
 <a href="https://www.buymeacoffee.com/lynsea"><img height="30" src="assets/icon/by-me-a-coffee.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/lynseahoss/"><img height="30" src="assets/icon/twitter.png"></a>&nbsp;&nbsp;
+
 
 
 
