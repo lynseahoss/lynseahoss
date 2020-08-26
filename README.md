@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=pink&link=https://twitter.com/lynseahoss/)](https://twitter.com/rbhatia46/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=pink&link=https://www.linkedin.com/in/lynsealawson/)](https://www.linkedin.com/in/rahul-bhatia-67ba08121/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=pink&link=https://twitter.com/lynseahoss/)](https://twitter.com/lynseahoss/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=pink&link=https://www.linkedin.com/in/lynsealawson/)](https://www.linkedin.com/in/lynsealawson/)
 [![GitHub Lindsey](https://img.shields.io/github/followers/lynseahoss?label=follow&style=social)](https://github.com/lynseahoss)
 
 
