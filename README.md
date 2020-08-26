@@ -1,4 +1,4 @@
-![Pigeon by Lindsey](https://media.giphy.com/media/Mc7Y5GR4JTVzGr2FZd/giphy.gif)
+
 
 ### Hi there 👋
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=pink&link=https://twitter.com/lynseahoss/)](https://twitter.com/lynseahoss/)
