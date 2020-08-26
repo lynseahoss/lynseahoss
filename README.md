@@ -2,6 +2,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=pink&link=https://twitter.com/lynseahoss/)](https://twitter.com/lynseahoss/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=pink&link=https://www.linkedin.com/in/lynsealawson/)](https://www.linkedin.com/in/lynsealawson/)
 [![GitHub Lindsey](https://img.shields.io/github/followers/lynseahoss?label=follow&style=social)](https://github.com/lynseahoss)
+![Profile views counter](https://lynseahoss.dev/github-profile-view-counter.svg)
 
 
 <!--
