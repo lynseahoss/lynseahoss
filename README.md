@@ -3,11 +3,11 @@
 
 
 <p align="center">
-<a href="https://dev.to/lynseahoss"><img height="30" src="assets/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/lynseanne/"><img height="30" src="assets/icon/instagram.png"></a>
+<a href="https://dev.to/lynseahoss"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+
 <a href="https://www.buymeacoffee.com/lynsea"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/lynseahoss/"><img height="30" src="assets/icon/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/lynsealawson"><img height="30" src="assets/icon/linkedin.png"></a>
+<a href="https://twitter.com/lynseahoss/"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lynsealawson"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/linkedin.png?raw=true"></a>
 
 
 </p>
