@@ -2,11 +2,9 @@
 
 ### Hi there 👋
 
-<p align='center'>
-<a href="https://dev.to/lynseahoss"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/dev.png"></a>&nbsp;&nbsp;
-
-
-https://www.buymeacoffee.com/lynsea
+<p align="center">
+<a href="https://dev.to/lynseahoss"><img height="30" src="assets/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/lynsea"><img height="30" src="assets/icon/by-me-a-coffee.png"></a>&nbsp;&nbsp;
 
 
 
