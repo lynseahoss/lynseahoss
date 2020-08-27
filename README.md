@@ -1,4 +1,4 @@
-#### Hi there welcome to my Github 👋🏻 
+#### Hi there 👋🏻  Welcome to my Github!
 <p align="center">
 <img src="https://media.giphy.com/media/gw3S3ggA1UpuKFLG/giphy.gif">
 </p>
