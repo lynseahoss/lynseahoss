@@ -1,4 +1,8 @@
-#### Hi 👋🏻 I'm currently coding 🌱 in React-Native and exploring SwiftUI. I have a passion for developing and managing apps.
+#### Hi 👋🏻
+<p align="center"><samp>
+I'm currently coding 🌱 in React-Native and exploring SwiftUI. I have a passion for developing and managing apps.
+  </samp>
+</p>
 <p align="center">
 <img src="https://media.giphy.com/media/gw3S3ggA1UpuKFLG/giphy.gif">
 </p>
