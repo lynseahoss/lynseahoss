@@ -1,4 +1,4 @@
-#### Hi there 👋🏻  Welcome to my Github!
+#### Hi 👋🏻 I'm currently coding 🌱 in React-Native and exploring SwiftUI. I have a passion for developing and managing apps.
 <p align="center">
 <img src="https://media.giphy.com/media/gw3S3ggA1UpuKFLG/giphy.gif">
 </p>
@@ -8,10 +8,9 @@
 <a href="https://www.buymeacoffee.com/lynsea"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/by-me-a-coffee.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/lynseahoss/"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/lynsealawson"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/linkedin.png?raw=true"></a>
-
-
 </p>
-
+Checkout my social platform ⤴️ and my repos ⤵️
+    
 
 <!--
 **lynseahoss/lynseahoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@
 
 
 Here are some ideas to get you started:
-- 🌱 I’m currently learning React-Native and SwiftUI
+- 
 - 📫 How to reach me: lynseahoss@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
