@@ -1,6 +1,7 @@
 
-
+<p align="center">
 <img src="https://media.giphy.com/media/gw3S3ggA1UpuKFLG/giphy.gif">
+</p>
 
 <p align="center">
 <a href="https://dev.to/lynseahoss"><img height="30" src="https://github.com/lynseahoss/lynseahoss/blob/master/assets/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
