@@ -1,4 +1,4 @@
-#### Hi 👋🏻
+#### Bonjour Babes
 <p align="center"><samp>
 I love fluffy clouds & blockchain 🌴 
   </samp>
