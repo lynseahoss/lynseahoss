@@ -1,6 +1,6 @@
 #### Hi 👋🏻
 <p align="center"><samp>
-I'm currently coding 🌱 in React and exploring SwiftUI. 
+I love fluffy clouds & blockchain 🌴 
   </samp>
 </p>
 <p align="center">
